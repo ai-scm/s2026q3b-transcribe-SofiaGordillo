@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/spanish_audio_transcriber.egg-info/PKG-INFO
+src/spanish_audio_transcriber.egg-info/SOURCES.txt
+src/spanish_audio_transcriber.egg-info/dependency_links.txt
+src/spanish_audio_transcriber.egg-info/entry_points.txt
+src/spanish_audio_transcriber.egg-info/requires.txt
+src/spanish_audio_transcriber.egg-info/top_level.txt
+src/transcriber/__init__.py
+src/transcriber/cli.py
+src/transcriber/config.py
+src/transcriber/output.py
+src/transcriber/transcriber.py
+src/transcriber/validation.py
+tests/test_validation.py

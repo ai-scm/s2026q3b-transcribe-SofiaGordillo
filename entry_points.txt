@@ -1,0 +1,2 @@
+[console_scripts]
+transcribir = transcriber.cli:main
